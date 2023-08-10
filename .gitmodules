@@ -1,0 +1,3 @@
+[submodule "rgba_bitmap"]
+	path = rgba_bitmap
+	url = https://github.com/bzotto/rgba_bitmap
